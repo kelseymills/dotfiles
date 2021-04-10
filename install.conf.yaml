@@ -1,0 +1,15 @@
+- clean: ['~']
+
+- link:
+    ~/.gitconfig:
+        path: gitconfig
+        create: true
+    ~/.vimrc:
+        path: vimrc
+        create: true
+    ~/.zshrc:
+        path: zshrc
+        create: true
+    ~/.gitignore:
+        path: gitignore
+        create: true
