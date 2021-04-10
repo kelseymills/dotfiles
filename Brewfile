@@ -1,6 +1,12 @@
 brew "git"
 brew "vim"
+brew "rbenv"
+brew "nvm"
+brew "yarn"
+brew "postgresql"
+brew "redis"
 
 cask "visual-studio-code"
 cask "rectangle"
 cask "google-chrome"
+cask "iterm2"
